@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kim0612/_clone/issues"
   },
-  "homepage": "https://github.com/kim0612/_clone#readme"
+  "homepage": "https://github.com/kim0612/_clone#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/register": "^7.12.1",
+    "gulp": "^4.0.2"
+  }
 }
