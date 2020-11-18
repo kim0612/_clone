@@ -1,0 +1,19 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "- [ ] [https://besthorrorscenes.com/](https://besthorrorscenes.com/) - [ ] [https://paint-box.com/](https://paint-box.com/) - [ ] [http://10x19.co/](http://10x19.co/) - [ ] [http://www.z-o-o.fr/](http://www.z-o-o.fr/) - [ ] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/) - [ ] [https://tolv.dk/](https://tolv.dk/) - [ ] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/) - [ ] [https://beige.de/](https://beige.de/) - [ ] [http://donicaida.com/](http://donicaida.com/) - [ ] [https://canalstreet.market/](https://canalstreet.market/) - [ ] [https://wonhundred.com/](https://wonhundred.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim0612/_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kim0612/_clone/issues"
+  },
+  "homepage": "https://github.com/kim0612/_clone#readme"
+}
